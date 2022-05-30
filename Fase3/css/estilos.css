@@ -1,0 +1,27 @@
+header{
+    background-color: #68A7AD;
+    text-align: center;
+}
+nav{
+    background-color: #EEE4AB;
+}
+section{
+    background-color:#E5CB9F;
+    grid-column: 1/4;
+    text-align: justify;
+}
+h2{ text-align: center;}
+iframe{align-content: center;}
+
+aside{
+    background-color: #99C4C8;
+    grid-column: 4/5;
+}
+footer{
+    background-color:#68A7AD;
+    text-align: center;
+}
+main{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
